@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF424242</color>
+    <color name="primary_dark">#212121</color>
+    <color name="accent">#FF424242</color>
+    <color name="primary_text">#000000</color>
+    <color name="view_pager_back">#FF3A7D</color>
+    <color name="selected_tab_text">#ffffff</color>
+    <color name="tab_text">#dadada</color>
+    <color name="navigationBarColor">#212121</color>
+    <color name="actionBarWhite">#ffffff</color>
+
+    <color name="priority_red">#C02E1D</color>
+    <color name="priority_red_dark">#973215</color>
+
+    <color name="priority_amber">#F16C20</color>
+    <color name="priority_amber_dark">#ca5a1a</color>
+
+    <color name="priority_yellow">#EBC844</color>
+    <color name="priority_yellow_dark">#caac39</color>
+
+    <color name="completed">#1FCF6D</color>
+    <color name="completed_dark">#1AAF5D</color>
+
+</resources>
